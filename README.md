@@ -27,20 +27,15 @@ Ensure you have the following installed:
 - MongoDB (or use MongoDB Atlas for cloud storage)
 
 ### Steps
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/music-store-api.git
-   cd music-store-api
-   ```
-2. Install dependencies:
+1. Install dependencies:
    ```sh
    npm install
    ```
-3. Start MongoDB (if running locally):
+2. Start MongoDB (if running locally):
    ```sh
    mongod --dbpath C:/data/db
    ```
-4. Run the application:
+3. Run the application:
    ```sh
    npm start
    ```
